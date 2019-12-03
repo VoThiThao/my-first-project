@@ -1,0 +1,6 @@
+D:\CN_Net\QuanLyTaiKhoan\QuanLyTaiKhoan\obj\Debug\QuanLyTaiKhoan.csprojResolveAssemblyReference.cache
+D:\CN_Net\QuanLyTaiKhoan\QuanLyTaiKhoan\bin\QuanLyTaiKhoan.dll.config
+D:\CN_Net\QuanLyTaiKhoan\QuanLyTaiKhoan\bin\QuanLyTaiKhoan.dll
+D:\CN_Net\QuanLyTaiKhoan\QuanLyTaiKhoan\bin\QuanLyTaiKhoan.pdb
+D:\CN_Net\QuanLyTaiKhoan\QuanLyTaiKhoan\obj\Debug\QuanLyTaiKhoan.dll
+D:\CN_Net\QuanLyTaiKhoan\QuanLyTaiKhoan\obj\Debug\QuanLyTaiKhoan.pdb
